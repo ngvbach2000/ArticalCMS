@@ -10,7 +10,7 @@
 => I use App Service for this project because:
     + App service easy to deploy and tracking log
     + App service cheaper than VMs
-    + Do not care about hardware
+    + Do not care about hardware when using App Service
 
 ### Assess app changes that would change your decision.
 
