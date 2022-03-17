@@ -7,6 +7,11 @@
 - *Choose the appropriate solution (VM or App Service) for deploying the app*
 - *Justify your choice*
 
+=> I use App Service for this project because:
+    + App service easy to deploy and tracking log
+    + App service cheaper than VMs
+    + Do not care about hardware
+
 ### Assess app changes that would change your decision.
 
 *Detail how the app and any other needs would have to change for you to change your decision in the last section.* 
